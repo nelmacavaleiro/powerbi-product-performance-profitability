@@ -31,7 +31,7 @@ The report includes:
 - `Product-Performance-Profitability-Raw-Data.xlsx` – Source dataset  
 
 ## Preview
-![Dashboard Preview](Product-Performance-Profitability.jpg)
+![Dashboard Preview](Product-Performance-Profitability.png)
 
 
 ## Author
