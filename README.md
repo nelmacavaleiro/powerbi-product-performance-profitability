@@ -2,6 +2,9 @@
 
 This Power BI dashboard analyses product-level performance and profitability across multiple markets between 2019 and 2023. The report is designed to provide clear commercial insights into sales volumes, revenue contribution, and profit trends by product, market, and management responsibility.
 
+# Preview
+![Dashboard Preview](Product-Performance-Profitability.png)
+
 # Key Insights
 - Chocolate Chip is the top-performing product in both units sold and revenue generated.
 - Profitability peaked in 2020, followed by a decline in 2022 and partial recovery in 2023.
@@ -29,9 +32,6 @@ The report includes:
 - `Product-Performance-Profitability.pdf` – Static export of the dashboard  
 - `Product-Performance-Profitability.jpg` – Dashboard preview image  
 - `Product-Performance-Profitability-Raw-Data.xlsx` – Source dataset  
-
-# Preview
-![Dashboard Preview](Product-Performance-Profitability.png)
 
 # Notes
 
