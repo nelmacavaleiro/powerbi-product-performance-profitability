@@ -33,6 +33,7 @@ The report includes:
 ## Preview
 ![Dashboard Preview](Product-Performance-Profitability.jpg)
 
+
 ## Author
 **Nelma Cavaleiro**  
 Data Analytics & Project Management  
