@@ -35,8 +35,7 @@ The report includes:
 
 # Notes
 
-This dashboard was created as part of a professional data analytics portfolio.  
-The dataset is a sample dataset used solely for demonstration purposes.
+This dashboard was created as part of a professional portfolio project and uses a sample dataset for demonstration purposes.
 
 # Author
 **Nelma Cavaleiro**  
