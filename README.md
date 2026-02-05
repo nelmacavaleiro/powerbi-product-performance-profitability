@@ -33,6 +33,10 @@ The report includes:
 ## Preview
 ![Dashboard Preview](Product-Performance-Profitability.png)
 
+## Notes
+
+This dashboard was created as part of a professional data analytics portfolio.  
+The dataset is a sample dataset used solely for demonstration purposes.
 
 ## Author
 **Nelma Cavaleiro**  
