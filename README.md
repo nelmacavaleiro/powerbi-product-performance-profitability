@@ -29,7 +29,6 @@ The report includes:
 
 # Files in This Repository
 - `Product-Performance-Profitability.pbix` – Power BI report file  
-- `Product-Performance-Profitability.pdf` – Static export of the dashboard  
 - `Product-Performance-Profitability.jpg` – Dashboard preview image  
 - `Product-Performance-Profitability-Raw-Data.xlsx` – Source dataset  
 
